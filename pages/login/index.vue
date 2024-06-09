@@ -25,7 +25,7 @@ import { cn } from '@@/lib/utils'
       <div class="relative z-20 mt-auto">
         <blockquote class="space-y-2">
           <p class="text-lg">
-            &ldquo;由 shadcn-vue 提供精美的组件设计👏.&rdquo;
+            &ldquo;由 shadcn-vue 和 unplugin-icons 提供出色的组件和图标设计 👏👏👏.&rdquo;
           </p>
           <footer class="text-sm">
             泥萌的凡
